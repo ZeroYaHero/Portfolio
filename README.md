@@ -14,7 +14,7 @@ Sorted in no particular order. Sorta by date but also by favortism?
 [Verse Noise: Custom noise program inspired by Perlin Noise and Fractal Brownian Motion](https://gist.github.com/ZeroYaHero/63499397e40025fe061cd8c3d7f55397)
 [VIDEO HERE](https://x.com/ZeroYaHero/status/1765820934768771317)
 ### 8/4/24
-[Storm Box: Released a full project using the storm shader and procedural terrain generation system in Fortnite/UEFN](https://github.com/ZeroYaHero/StormBox) 
+[Storm Box Repository: Released a full project using the storm shader and procedural terrain generation system in Fortnite/UEFN](https://github.com/ZeroYaHero/StormBox) 
 
 [Scrapped promotional Blender volumetric animation](https://x.com/ZeroYaHero/status/1695507653219504340)
 
