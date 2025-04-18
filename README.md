@@ -15,6 +15,7 @@ Sorted in no particular order. Sorta by date but also by favortism?
 [VIDEO HERE](https://x.com/ZeroYaHero/status/1765820934768771317)
 ### 8/4/24
 [Storm Box: Released a full project using the storm shader and procedural terrain generation system in Fortnite/UEFN](https://github.com/ZeroYaHero/StormBox) 
+[Scrapped promotional Blender volumetric animation](https://x.com/ZeroYaHero/status/1695507653219504340)
 ### 7/10/24
 [Material animation with no flipbooks (sprite textures). Vector art created in Adobe Illustrator.](https://x.com/ZeroYaHero/status/1811214016997454189)
 ### 8/1/24
