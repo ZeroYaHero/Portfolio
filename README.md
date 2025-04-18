@@ -11,7 +11,8 @@ Sorted in no particular order. Sorta by date but also by favortism?
 ### 7/25/24
 [Fully procedural terrain generation system built from the ground up with Verse Noise](https://x.com/ZeroYaHero/status/1816518781092659348)
 ### 3/7/24 - 4/17/25
-[Verse Noise: Custom noise program inspired by Perlin Noise and Fractal Brownian Motion](https://gist.github.com/ZeroYaHero/63499397e40025fe061cd8c3d7f55397) [VIDEO HERE](https://x.com/ZeroYaHero/status/1765820934768771317)
+[Verse Noise: Custom noise program inspired by Perlin Noise and Fractal Brownian Motion](https://gist.github.com/ZeroYaHero/63499397e40025fe061cd8c3d7f55397)
+[VIDEO HERE](https://x.com/ZeroYaHero/status/1765820934768771317)
 ### 8/4/24
 [Storm Box: Released a full project using the storm shader and procedural terrain generation system in Fortnite/UEFN](https://github.com/ZeroYaHero/StormBox) 
 ### 7/10/24
