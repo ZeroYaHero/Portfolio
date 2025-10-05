@@ -1,5 +1,5 @@
 # ZeroYaHero's Portfolio
-*GitHub repositories are featured, but if you want to look at public code only that is the most up to date just [look at my GitHub profile.](https://github.com/ZeroYaHero) PS: some of the code featured here does not have a repository and instead is a gist.*
+*GitHub repositories are featured, but if you want to look at public code only that is the most up to date just [look at my GitHub profile.](https://github.com/ZeroYaHero) PS: some of the code featured here does not have a repository and instead is a gist so it might be easier to find.*
 
 This portfolio is an aggregation of my proudest, underapprecieated, or elusive work.
 
@@ -13,7 +13,7 @@ INSERT_IMAGE
 Fully procedural terrain generation system using VerseNoise, Voronoi diagrams, and spatial hashing. [Video](https://x.com/ZeroYaHero/status/1816518781092659348)
 ## "Dead by Daylight" Inspired QTE/Skill Check
 Hand drawn assets in Procreate. Scripted in Verse. [Video](https://x.com/ZeroYaHero/status/1735732924182327667)
-## Fortnite - Storm Shader / Material
+## Fortnite Storm Shader Recreation
 Recreation of the "Storm" shader seen in Fortnite using Unreal Engine Material Editor. No peeking! [Video](https://x.com/ZeroYaHero/status/1687967828215754753)
 ## Storm Box
 PvP game within Fortnite/UEFN. Uses the recreated Fortnite Storm Shader and Procedural Environment system mentioned before.
