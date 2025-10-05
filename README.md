@@ -9,7 +9,6 @@ This portfolio is an aggregation of my proudest, underapprecieated, or elusive w
 ![hippo](Supplements/versenoise_demo.gif)
 
 Custom Noise program in UE/UEFN Verse inspired by Perlin Noise and Fractal Brownian Motion. At the time of writing this program, there was no bitwise operators (and at the time of me writing this 10/5/2025 there still isn't). This made it a little bit of challenge to stay somewhat performant.
-
 [Gist](https://gist.github.com/ZeroYaHero/63499397e40025fe061cd8c3d7f55397)
 [Video](https://x.com/ZeroYaHero/status/1765820934768771317)
 ## Procedural Environment Demo
