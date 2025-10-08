@@ -3,24 +3,28 @@
 
 This portfolio is an aggregation of my proudest, underapprecieated, or elusive work.
 
-### 
+## Class Generator
+![demo](Supplements/classgen_demo.gif)
+
+GUI that generates Verse code and UEFN devices given a set of configurations that need to be combined using cartesian product. Tool created and used for commission. [GitHub](https://github.com/ZeroYaHero/UEFNClassGenerator)
+
 ## VerseNoise
 
-![hippo](Supplements/versenoise_demo.gif)
+![demo](Supplements/versenoise_demo.gif)
 
 Custom Noise program in UE/UEFN Verse inspired by Perlin Noise and Fractal Brownian Motion. At the time of writing this program, there was no bitwise operators (and at the time of me writing this 10/5/2025 there still isn't). This made it a little bit of challenge to stay somewhat performant.
 [Gist](https://gist.github.com/ZeroYaHero/63499397e40025fe061cd8c3d7f55397)
 [Video](https://x.com/ZeroYaHero/status/1765820934768771317)
 ## Procedural Environment Demo
-![hippo](Supplements/procenv_demo.gif)
+![demo](Supplements/procenv_demo.gif)
 
 Fully procedural terrain generation system using VerseNoise, Voronoi diagrams, and spatial hashing. [Video](https://x.com/ZeroYaHero/status/1816518781092659348)
 ## "Dead by Daylight" Inspired QTE/Skill Check
-![hippo](Supplements/qte_demo.gif)
+![demo](Supplements/qte_demo.gif)
 
 Hand drawn assets in Procreate. Scripted in Verse. [Video](https://x.com/ZeroYaHero/status/1735732924182327667)
 ## Fortnite Storm Shader Recreation
-![hippo](Supplements/storm_demo.gif)
+![demo](Supplements/storm_demo.gif)
 
 Recreation of the "Storm" shader seen in Fortnite using Unreal Engine Material Editor. No peeking! [Video](https://x.com/ZeroYaHero/status/1687967828215754753)
 ## Storm Box
@@ -36,7 +40,7 @@ Includes many classes and methods that abstract: state machine, persistence, tea
 ## VerseTriggerVolumes: OOP Excercise
 Commission for another UEFN creator. OOP is not my forte and as I learn the more I prefer ECS. However, for this project I wanted to push it to the limits. Abstracts trigger volumes by allowing the user to select positions or source entities/actors transforms. [GitHub](https://github.com/ZeroYaHero/VerseVolumes)
 ## Burning Cardboard Box Vertex Shader
-![hippo](Supplements/burn_demo.gif)
+![demo](Supplements/burn_demo.gif)
 
 [Video](https://x.com/ZeroYaHero/status/1913019372379025675)
 ## Adobe Substance Designer: Sparkling Item Texture Utility
