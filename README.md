@@ -33,6 +33,13 @@ Recreation of the "Storm" shader seen in Fortnite using Unreal Engine Material E
 
 Item selection menu done in UMG with animations. Scoreboard dynamically in Verse. [Video](https://x.com/ZeroYaHero/status/1898818115091538321)
 
+## HP Customizer
+![pic](Supplements/hp_pic.png)
+
+Mechanic made in Verse and UE shader graph. Visual component that allows players to modify their own health.
+
+[Video](https://x.com/ZeroYaHero/status/1915778658246983900)
+
 ## Promotional Materials Done in UE:
 ![pic](Supplements/promo_pic.png)
 
