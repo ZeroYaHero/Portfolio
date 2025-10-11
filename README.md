@@ -27,6 +27,12 @@ Hand drawn assets in Procreate. Scripted in Verse. [Video](https://x.com/ZeroYaH
 ![demo](Supplements/storm_demo.gif)
 
 Recreation of the "Storm" shader seen in Fortnite using Unreal Engine Material Editor. No peeking! [Video](https://x.com/ZeroYaHero/status/1687967828215754753)
+
+## UMG + Verse UI
+![pic](Supplements/item_pic.png)![pic](Supplements/scoreboard_pic.png)
+
+Item selection menu done in UMG with animations. Scoreboard dynamically in Verse. [Video](https://x.com/ZeroYaHero/status/1898818115091538321)
+
 ## Storm Box
 PvP game within Fortnite/UEFN. Uses the recreated Fortnite Storm Shader and Procedural Environment system mentioned before.
 
@@ -49,8 +55,3 @@ Highlights the provided texture and adds sparkling and holographic effects. [Vid
 Just felt like learning Substance Designer for assets by mimicing one I saw on art-station. [Video](https://x.com/ZeroYaHero/status/1819143137819820472)
 ## Like & Favorite Creator Shader:
 Material done in UE with no flipbooks and a "keyframe" like setup. Vector art created in Adobe Illustrator. [Video](https://x.com/ZeroYaHero/status/1811214016997454189)
-
-### 3/9/25
-[Reload Realistics: Gamemode inspired by Epic Games Fortnite Reload mode. Custom HUD/UI animated and programmed.](https://x.com/ZeroYaHero/status/1898818115091538321)
-### 1/15/24
-[Godot Explorations: Tested/designed sprite textures, player components, particle components, and tweens!](https://x.com/ZeroYaHero/status/1747096356622139514)
