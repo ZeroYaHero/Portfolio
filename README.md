@@ -33,6 +33,11 @@ Recreation of the "Storm" shader seen in Fortnite using Unreal Engine Material E
 
 Item selection menu done in UMG with animations. Scoreboard dynamically in Verse. [Video](https://x.com/ZeroYaHero/status/1898818115091538321)
 
+## Promotional Materials Done in UE:
+![pic](Supplements/promo_pic.png)
+
+Materials done in UE with no flipbooks and a "keyframe" like setup. Vector art created in Adobe Illustrator. [Video(https://x.com/ZeroYaHero/status/1811214016997454189](https://x.com/ZeroYaHero/status/1928556416593260632)
+
 ## Storm Box
 PvP game within Fortnite/UEFN. Uses the recreated Fortnite Storm Shader and Procedural Environment system mentioned before.
 
@@ -53,7 +58,3 @@ Commission for another UEFN creator. OOP is not my forte and as I learn the more
 Highlights the provided texture and adds sparkling and holographic effects. [Video](https://x.com/ZeroYaHero/status/1822694817567998083)
 ## Adobe Substance Designer: Sci-Fi Cube Study
 Just felt like learning Substance Designer for assets by mimicing one I saw on art-station. [Video](https://x.com/ZeroYaHero/status/1819143137819820472)
-## Promotional Materials Done in UE:
-![pic](Supplements/promo_pic.png)
-
-Material done in UE with no flipbooks and a "keyframe" like setup. Vector art created in Adobe Illustrator. [Video](https://x.com/ZeroYaHero/status/1811214016997454189)
