@@ -53,5 +53,7 @@ Commission for another UEFN creator. OOP is not my forte and as I learn the more
 Highlights the provided texture and adds sparkling and holographic effects. [Video](https://x.com/ZeroYaHero/status/1822694817567998083)
 ## Adobe Substance Designer: Sci-Fi Cube Study
 Just felt like learning Substance Designer for assets by mimicing one I saw on art-station. [Video](https://x.com/ZeroYaHero/status/1819143137819820472)
-## Like & Favorite Creator Shader:
+## Promotional Materials Done in UE:
+![pic](Supplements/promo_pic.png)
+
 Material done in UE with no flipbooks and a "keyframe" like setup. Vector art created in Adobe Illustrator. [Video](https://x.com/ZeroYaHero/status/1811214016997454189)
