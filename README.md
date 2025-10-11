@@ -43,7 +43,7 @@ Mechanic made in Verse and UE shader graph. Visual component that allows players
 ## Promotional Materials Done in UE:
 ![pic](Supplements/promo_pic.png)
 
-Materials done in UE with no flipbooks and a "keyframe" like setup. Vector art created in Adobe Illustrator. [Video(https://x.com/ZeroYaHero/status/1811214016997454189](https://x.com/ZeroYaHero/status/1928556416593260632)
+Materials done in UE with no flipbooks and a "keyframe" like setup. Vector art created in Adobe Illustrator. [Video](https://x.com/ZeroYaHero/status/1928556416593260632)
 
 ## Storm Box
 PvP game within Fortnite/UEFN. Uses the recreated Fortnite Storm Shader and Procedural Environment system mentioned before.
