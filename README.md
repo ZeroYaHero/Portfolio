@@ -2,14 +2,10 @@
 <img src="Supplements/T_ZeroBanner.png" alt="ZeroYaHero">
 This repository is a temporary aggregation of some of my proudest, underapprecieated, or elusive work. Some of the entries <ins>BUT NOT ALL</ins> have their own GitHub repositories, so if thats what you are looking for and don't want any "distractions," feel free to just look at my account.
 
-*Banner and emojis done by yours truly :)*
-
-[GitHub Account](https://github.com/ZeroYaHero)
-
-## [Shaders & Renders]((ShadersAndRenders/README.md))
+## Tech Art
 For a portfolio subset for those interested in more tech-art and not necessarily code, I present you that [ShadersAndRenders/README.md](ShadersAndRenders/README.md)
 
-## [Class Generator](https://github.com/ZeroYaHero/UEFNClassGenerator)
+## Class Generator
 ![demo](Supplements/classgen_demo.gif)
 
 ![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
