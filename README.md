@@ -3,7 +3,7 @@
 This repository is a temporary aggregation of some of my proudest, underapprecieated, or elusive work. Some of the entries <ins>BUT NOT ALL</ins> have their own GitHub repositories, so if thats what you are looking for and don't want any "distractions," feel free to just look at my account.
 
 ## Tech Art
-For a portfolio subset for those interested in more tech-art and not necessarily code, I present you that [ShadersAndRenders/README.md](ShadersAndRenders/README.md)
+Looking for a portfolio subset focused on tech-art? [ShadersAndRenders/README.md](ShadersAndRenders/README.md)
 
 ## Class Generator
 ![demo](Supplements/classgen_demo.gif)
@@ -19,9 +19,9 @@ GUI that generates Verse code and UEFN devices (UE actor properties) given a set
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=dark)
 <img src="Supplements/verse.jpeg" alt="vese" width="48">
 
-Custom Noise program in UE/UEFN Verse inspired by Perlin Noise and utilizes Fractal Brownian Motion (FBM). There are no bitwise operators in Verse, so it completely is reliant on `mod`. This made it a little bit of challenge to stay somewhat performant.
+Custom Noise program in UE/UEFN Verse inspired by Perlin Noise and utilizes Fractal Brownian Motion (FBM). There is no native noise method and no bitwise operators in Verse, so it completely is reliant on `mod`. This made it a little bit of challenge to stay somewhat performant.
 
-[Gist](https://gist.github.com/ZeroYaHero/63499397e40025fe061cd8c3d7f55397)
+[GitHub](https://github.com/ZeroYaHero/VerseNoise)
 
 [Video](https://x.com/ZeroYaHero/status/1765820934768771317)
 
@@ -71,7 +71,7 @@ Mechanic made in Verse and UE shader graph. Visual component that allows players
 
 [Video](https://x.com/ZeroYaHero/status/1915778658246983900)
 
-## [VerseTriggerVolumes: OOP Excercise](https://github.com/ZeroYaHero/VerseVolumes)
+## VerseTriggerVolumes: OOP Excercise
 
 <img src="Supplements/T_Volume.png" width="300">
 
