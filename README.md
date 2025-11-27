@@ -12,6 +12,14 @@ Looking for a portfolio subset focused on tech-art? [ShadersAndRenders/README.md
 
 GUI that generates Verse code and UEFN devices (UE actor properties) given a set of configurations that need to be combined using cartesian product. The graphics are not great, but I needed something that just works. Tool created and used for contract work. I will not go too much in detail considering the source is available here: [GitHub](https://github.com/ZeroYaHero/UEFNClassGenerator)
 
+## ZeRayTracer
+
+<img src="https://github.com/ZeroYaHero/ZeRayTracer/blob/main/renders/chapter_14.png?raw=true" alt="ray" width="300">
+
+![cpp](https://skillicons.dev/icons?i=cpp,cmake&theme=dark)
+
+CPU Ray Tracer coded from scratch in C++ with CMake build system. Contains different material types, camera effects, and multithreading.
+
 ## VerseNoise
 
 ![demo](Supplements/versenoise_demo.gif)
