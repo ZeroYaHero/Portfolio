@@ -10,7 +10,9 @@ Looking for a portfolio subset focused on tech-art? [ShadersAndRenders/README.md
 
 ![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
 
-GUI that generates Verse code and UEFN devices (UE actor properties) given a set of configurations that need to be combined using cartesian product. The graphics are not great, but I needed something that just works. Tool created and used for contract work. I will not go too much in detail considering the source is available here: [GitHub](https://github.com/ZeroYaHero/UEFNClassGenerator)
+GUI that generates Verse code and UEFN devices (UE actor properties) given a set of configurations that need to be combined using cartesian product. The graphics are not great, but I needed something that just works. Tool created and used for contract work. I will not go too much in detail considering the source is available.
+
+[GitHub](https://github.com/ZeroYaHero/UEFNClassGenerator)
 
 ## ZeRayTracer
 
@@ -19,6 +21,8 @@ GUI that generates Verse code and UEFN devices (UE actor properties) given a set
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake&theme=dark)
 
 CPU Ray Tracer coded from scratch in C++ with CMake build system. Contains different material types, camera effects, and multithreading.
+
+[GitHub](https://github.com/ZeroYaHero/ZeRayTracer)
 
 ## VerseNoise
 
@@ -55,6 +59,20 @@ Because of the lack of bitwise operators in Verse, three dimensional noise takes
 
 [Prototype](https://x.com/ZeroYaHero/status/1795934807538405727)
 
+## BugByte (WIP)
+<img src="Supplements/T_BugByteLogo.png" alt="bblogo" width="300">
+
+<img src="Supplements/bbdemo.png" alt="bbss" width="300">
+
+BugByte is a work-in-progress narrative arcade game created in Godot. The story starts with a character which has applied for hundreds of jobs, but gets rejected from all of them...except one.
+
+One night a response to an application lands in their inbox, and it is not a rejectiuon this time. Oddly enough, the character has no evidence or recollection that they even applied. In desperation, they accept (I mean, can you blame them? No interview!)
+
+The character and you learn the details of the job on the spot through a terminal. The computer which was used to look at job rejections, is now barebones shell interface. The company claims its for security and increased performance.
+
+This limited look into this job leads you wondering what is actually happening? What is that your job is actually doing? Are you doing the right thing?
+
+
 ## "Dead by Daylight" Inspired QTE/Skill Check
 [![demo](Supplements/qte_demo.gif)](https://x.com/ZeroYaHero/status/1735732924182327667)
 
@@ -75,7 +93,7 @@ Hand drawn assets in Procreate. UI was then scripted in Verse. The logic is rela
 <img src="Supplements/verse.jpeg" alt="verse" width="48">
 
 
-Mechanic made in Verse and UE shader graph. Visual component that allows players to modify their own health.
+Mechanic made in Verse and UE material graph. Visual component that allows players to modify their own health. This was a commissioned piece for [Raider464's most popular game which hits peak ccu of around 10k daily](https://fortnite.gg/island?code=1832-0431-4852)
 
 [Video](https://x.com/ZeroYaHero/status/1915778658246983900)
 
@@ -85,7 +103,9 @@ Mechanic made in Verse and UE shader graph. Visual component that allows players
 
 <img src="Supplements/verse.jpeg" width="48">
 
-Commission for another UEFN creator. OOP is not my favorite and as I learn the more I prefer ECS. However, for this project I wanted to push it to the limits. Abstracts trigger volumes by allowing the user to select positions or source entities/actors transforms. [GitHub](https://github.com/ZeroYaHero/VerseVolumes)
+Commission for another UEFN creator. OOP is not my favorite and as I learn the more I prefer ECS. However, for this project I wanted to push it to the limits. Abstracts trigger volumes by allowing the user to select positions or source entities/actors transforms. 
+
+[GitHub](https://github.com/ZeroYaHero/VerseVolumes)
 
 ## Storm Box
 PvP game within Fortnite/UEFN. Uses the recreated Fortnite Storm Shader and Procedural Environment system mentioned before.
