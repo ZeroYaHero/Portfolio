@@ -38,10 +38,21 @@ I was working with a content creator who managed a pretty popular UGC gamemode i
 ![UnrealBlender](https://skillicons.dev/icons?i=unreal,blender&theme=light)
 <img src="../Supplements/s3d.png" alt="s3d" width="48">
 
-One of my games, Storm Box, resolved around completely procedural elements. The terrain was generated, the direction of the safe zone was randomized, and the location that players spawn was also generated. The obvious and inevitable issue is that when you generate stuff you need some way to delete it. This was a (scrapped) way to delete the cardboard boxes that players spawned in.
+One of my games, [Storm Box](https://github.com/ZeroYaHero/StormBox), resolved around completely procedural elements. The terrain was generated, the direction of the safe zone was randomized, and the location that players spawn was also generated. The obvious and inevitable issue is that when you generate stuff you need some way to delete it. This was a (scrapped) way to delete the cardboard boxes that players spawned in.
 
+## Reload Realistics: Logo Renders
 
-[Social Media Post](https://x.com/ZeroYaHero/status/1913019372379025675)
+<img src="../Supplements/RR_SkyRenderV4SquarePS.png" alt="burn" width="384"/>
+
+<img src="../Supplements/RR_SkyRenderLogoPS.png" alt="rrwideps" width="384"/>
+
+<img src="../Supplements/RR_SkyRenderV1.png" alt="rrwidev1" width="384"/>
+
+![BlenderIllustrator](https://skillicons.dev/icons?i=blender,illustrator&theme=light)
+
+In a gamemode I made with another content creator called Reload Realistics, I wanted us to have distinct and clean branding. I made us two different logos that we could use, and rendered them in a scene with clouds in Blender.
+
+[Social Media Post](https://x.com/Ken_Beans_/status/1891223525136138741?s=20)
 
 ## Promotional Shaders
 <img src="../Supplements/promo_pic.png" width="300">
@@ -50,13 +61,13 @@ One of my games, Storm Box, resolved around completely procedural elements. The 
 
 These are shaders done in Unreal Material Graph done with no flipbooks and a "keyframe" like setup. I created multiple shader functions to alleviate the process. Vector art created in Adobe Illustrator. [Video](https://x.com/ZeroYaHero/status/1928556416593260632)
 
-## UI Holographic Button Shader
+## Reload Realistics: UI Holographic Button Shader
 <img src="../Supplements/holo_buttons.gif" alt="drawing" width="300"/>
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
 <img src="../Supplements/verse.jpeg" alt="drawing" width="48">
 
-Fortnite released a mode called **Reload** in 2024-2025 (I can't remember). It had this aesthetic with blue holograms, and I really liked the look. In a derivative gamemode **Reload Realistics** I designed these holographic buttons as if they were from the mode. I think it came out really clean. I used Unreal Motion Graphics (UMG) designer, Verse, and Unreal Engine Material Graph. 
+ **Reload Realistics** I designed these holographic buttons as if they were from the mode. I think it came out really clean. I used Unreal Motion Graphics (UMG) designer, Verse, and Unreal Engine Material Graph. 
 
 [Video](https://x.com/ZeroYaHero/status/1898818115091538321)
 

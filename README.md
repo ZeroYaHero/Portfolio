@@ -24,6 +24,27 @@ CPU Ray Tracer coded from scratch in C++ with CMake build system. Contains diffe
 
 [GitHub](https://github.com/ZeroYaHero/ZeRayTracer)
 
+## Storm Box 
+<img src="Supplements/T_StormBoxRender.png" alt="stormbox" width="384">
+
+![Tools Used](https://skillicons.dev/icons?i=unreal,blender,python,photoshop,illustrator&theme=light)
+<img src="Supplements/verse.jpeg" alt="verse" width="48">
+<img src="Supplements/s3d.png" alt="s3d" width="48">
+
+Full game made and published by myself in the Fortnite UGC ecosystem.
+
+- Procedural and Randomized Storm
+- Procedural and Randomized Environment Generation System (using [VerseNoise](#versenoise))
+
+    <img src="Supplements/procenv_demo.gif" alt="proc" width="250">
+- UE Materials (Storm, UI, Landscape)
+- Substance 3D Materials (Lobby Walls/Floor/Ceiling, Cardboard Box, Platform)
+- Blender Models and Rigs (Cardboard Box, Platform, Terrain Prefabs, Lobby)
+- Logo Design
+- Blender Key Art & Renders (Logo, Animation, and Thumbnail)
+
+[GitHub](https://github.com/ZeroYaHero/StormBox)
+
 ## VerseNoise
 
 ![demo](Supplements/versenoise_demo.gif)
@@ -37,32 +58,12 @@ Custom Noise program in UE/UEFN Verse inspired by Perlin Noise and utilizes Frac
 
 [Video](https://x.com/ZeroYaHero/status/1765820934768771317)
 
-## Procedural Terrain Generation System
-<img src="Supplements/procenv_demo.gif" alt="proc" width="300">
-
-[![UnrealBlender](https://skillicons.dev/icons?i=unreal,blender&theme=light)](https://x.com/ZeroYaHero/status/1816518781092659348)
-<img src="Supplements/verse.jpeg" alt="verse" width="48">
-
-Using [VerseNoise](#versenoise), I showcase how you can procedurally generate an environment with it.
-
-The environment is constructed by sampling a position and checking if it is greater than a tolerance, spawning a terrain prefab, then applying a material based on the biome (using voroni diagram). The biomes actually have two values (humidity and temperature) to determine what assets should be used.
-
-You will notice the odd layering and shaping of the world, and that is because I wanted to go for something akin to minecraft or the "Hallelujah Mountains" seen in the Avatar movies. The purpose of this is because the game, Storm Box, makes the Battle Royale "safe zone" a box instead, which can traverse in vertical directions. I could not have traditional landscapes because of the limited box size would prevent players from traversing. I needed a way for them to go under. I also needed a way for spawns to generate without being inside the terrain masses. This is where spatial hashing takes place, where every terrain piece that is entered in the system takes note of its dimensions. Then, when I spawn the piece with a different scale, I multiply it by those dimensions, and divide it again by the grid size. This way I can calculate how many "grid points" the terrain piece takes up, and I can mark them as "occupied" to prevent spawns from generating there. 
-
-Because of the lack of bitwise operators in Verse, three dimensional noise takes too long to execute. I had to make a workaround, so what I did was divide up the world into layers, each with diminishing values in tolerance. The noise permutation is the same for each layer to save on performance, but each layer has a randomized coordinate offset so the layers do not line up perfectly.
-
-[GitHub](https://github.com/ZeroYaHero/StormBox)
-
-[Video](https://x.com/ZeroYaHero/status/1816518781092659348)
-
-[Official Fortnite Retweet](https://x.com/FNCreate/status/1816867826478539179)
-
-[Prototype](https://x.com/ZeroYaHero/status/1795934807538405727)
-
 ## BugByte (WIP)
 <img src="Supplements/T_BugByteLogo.png" alt="bblogo" width="300">
 
 <img src="Supplements/bbdemo.png" alt="bbss" width="300">
+
+![GodotBlender](https://skillicons.dev/icons?i=godot,blender&theme=light)
 
 BugByte is a work-in-progress narrative arcade game created in Godot. The story starts with a character which has applied for hundreds of jobs, but gets rejected from all of them...except one.
 
@@ -107,21 +108,13 @@ Commission for another UEFN creator. OOP is not my favorite and as I learn the m
 
 [GitHub](https://github.com/ZeroYaHero/VerseVolumes)
 
-## Storm Box
-PvP game within Fortnite/UEFN. Uses the recreated Fortnite Storm Shader and Procedural Environment system mentioned before.
-
-[GitHub](https://github.com/ZeroYaHero/StormBox)
-
-[Thumbnail/Logo Design in Adobe Illustrator and Render done in Blender](https://x.com/ZeroYaHero/status/1820099148542034383)
-
-[Scrapped Promotional Volumetric Animation done in Blender](https://x.com/ZeroYaHero/status/1695507653219504340)
-## FNGameplay: UEFN Verse Gameplay Framework (WIP)
-Includes many classes and methods that abstract: state machine, persistence, teams, combat events, and more. [Gist](https://gist.github.com/ZeroYaHero/d0f17197e4f0a5a72bc1bf53e28c9860)
+<!-- ## FNGameplay: UEFN Verse Gameplay Framework (WIP)
+Includes many classes and methods that abstract: state machine, persistence, teams, combat events, and more. [Gist](https://gist.github.com/ZeroYaHero/d0f17197e4f0a5a72bc1bf53e28c9860) -->
 
 
 # Thats All Folks!
 
-For now... Sometimes I do a bad job of updating this. Feel free to shoot me an email  if you want a guaranteed look at my most recent and my best work!:
+Sometimes I do a bad job of updating this. Feel free to shoot me an email  if you want a guaranteed look at my most recent and my best work!:
 zeroyaheroofficial@gmail.com
 
 <img src="Supplements/T_ZeroFaceLogo.png">
